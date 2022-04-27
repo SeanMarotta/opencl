@@ -1,0 +1,4 @@
+/snap/clion/184/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/184/bin/ninja/linux/ninja -G Ninja /home/imvia/CLionProjects/filter_2d_optimized_RGB
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/imvia/CLionProjects/filter_2d_optimized_RGB/cmake-build-debug

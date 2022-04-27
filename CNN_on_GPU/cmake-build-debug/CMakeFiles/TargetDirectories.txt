@@ -1,0 +1,3 @@
+/home/imvia/CLionProjects/CNN_on_GPU/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/imvia/CLionProjects/CNN_on_GPU/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/imvia/CLionProjects/CNN_on_GPU/cmake-build-debug/CMakeFiles/opencl_c.dir
